@@ -1,0 +1,6 @@
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSEntity\bin\Debug\PMSEntity.dll
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSEntity\bin\Debug\PMSEntity.pdb
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSEntity\obj\Debug\PMSEntity.csprojAssemblyReference.cache
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSEntity\obj\Debug\PMSEntity.csproj.CoreCompileInputs.cache
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSEntity\obj\Debug\PMSEntity.dll
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSEntity\obj\Debug\PMSEntity.pdb

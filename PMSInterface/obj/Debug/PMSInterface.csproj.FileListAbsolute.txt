@@ -1,0 +1,9 @@
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSInterface\bin\Debug\PMSInterface.dll
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSInterface\bin\Debug\PMSInterface.pdb
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSInterface\bin\Debug\PMSEntity.dll
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSInterface\bin\Debug\PMSEntity.pdb
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSInterface\obj\Debug\PMSInterface.csprojAssemblyReference.cache
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSInterface\obj\Debug\PMSInterface.csproj.CoreCompileInputs.cache
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSInterface\obj\Debug\PMSInterface.csproj.CopyComplete
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSInterface\obj\Debug\PMSInterface.dll
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSInterface\obj\Debug\PMSInterface.pdb

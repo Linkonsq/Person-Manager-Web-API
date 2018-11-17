@@ -1,0 +1,14 @@
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSData\bin\Debug\PMSData.dll.config
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSData\bin\Debug\PMSData.dll
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSData\bin\Debug\PMSData.pdb
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSData\bin\Debug\EntityFramework.dll
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSData\bin\Debug\EntityFramework.SqlServer.dll
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSData\bin\Debug\PMSEntity.dll
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSData\bin\Debug\PMSEntity.pdb
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSData\bin\Debug\EntityFramework.xml
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSData\bin\Debug\EntityFramework.SqlServer.xml
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSData\obj\Debug\PMSData.csprojAssemblyReference.cache
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSData\obj\Debug\PMSData.csproj.CoreCompileInputs.cache
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSData\obj\Debug\PMSData.csproj.CopyComplete
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSData\obj\Debug\PMSData.dll
+D:\Semester\11th Sem\Dot Net\Final\PMS\PMSData\obj\Debug\PMSData.pdb
